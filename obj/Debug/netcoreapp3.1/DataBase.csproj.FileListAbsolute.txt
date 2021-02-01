@@ -1,0 +1,13 @@
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\bin\Debug\netcoreapp3.1\DataBase.exe
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.json
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.dev.json
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\obj\Debug\netcoreapp3.1\DataBase.csprojAssemblyReference.cache
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\Alexandr\Desktop\У#ёба\saod 2 course\DataBase\obj\Debug\netcoreapp3.1\DataBase.genruntimeconfig.cache

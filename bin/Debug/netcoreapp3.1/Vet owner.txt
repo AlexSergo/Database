@@ -1,0 +1,5 @@
+id name id_pet[pet,0] 
+1 Mark 2 
+2 Sasha 3 
+3 Dasha 1 
+4 Yan 4

@@ -1,0 +1,5 @@
+id name type 
+2 Bobik Dog 
+3 Archy Dog 
+1 Simka Cat 
+4 Jack Meduza
